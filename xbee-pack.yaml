@@ -1,0 +1,12 @@
+schema-version: 1.0
+
+builders:
+    - oniguruma
+    - lua
+    - git
+    - libffi
+    - mpfr
+    - core-utils
+    - util-linux
+    - libuv
+    - pcre2

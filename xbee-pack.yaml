@@ -1,9 +1,10 @@
 schema-version: 1.0
 
+dependency: git
+
 builders:
     - oniguruma
     - lua
-    - git
     - libffi
     - mpfr
     - core-utils
